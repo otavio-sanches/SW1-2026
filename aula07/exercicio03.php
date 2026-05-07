@@ -1,31 +1,31 @@
 <?php
 $produtos = [
     [
-        "nome" => "Teclado",
-        "preco" => 349.99,
+        "nome" => "Monitor",
+        "preco" => 629.99,
         "categoria" => "Eletrônico"
     ],
     [
         "nome" => "Mouse",
-        "preco" => 49.99,
+        "preco" => 195.99,
         "categoria" => "Eletrônico"
     ],
     [
-        "nome" => "Violão",
-        "preco" => 2045.99,
-        "categoria" => "Instrumento"
+        "nome" => "Sofá",
+        "preco" => 5000.00,
+        "categoria" => "Móvel"
     ],
     [
-        "nome" => "Pano",
-        "preco" => 20.99,
-        "categoria" => "Limpeza"
+        "nome" => "Auto-falante",
+        "preco" => 350.00,
+        "categoria" => "Carro"
     ]
 ];
 
 $cores_categorias = [
-    "Eletrônico" => "#5969ff",
-    "Instrumento" => "#c8cb00",
-    "Limpeza" => "#67ff65"
+    "Eletrônico" => "#08a815",
+    "Móvel" => "#1251fd",
+    "Carro" => "#ee01e2"
 ];
 ?>
 <!DOCTYPE html>
