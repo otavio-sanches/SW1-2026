@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Exercício 2 - Tabela dinâmica</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="aula07\exercicios\style.css">
 </head>
 <body>
     <h1>Exercício 02 - Tabela dinâmica</h1>

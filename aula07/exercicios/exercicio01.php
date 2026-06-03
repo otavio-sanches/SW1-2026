@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Exercício 1 - Tabela colorida</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="aula07\exercicios\style.css">
 </head>
 <body>
     <h1>Exercício 01 - Tabela colorida</h1>
